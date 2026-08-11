@@ -1,0 +1,8 @@
+{
+    "selection_metric": "f1",
+    "positive_class": "M",
+    "selected_configuration": "full",
+    "correlation_threshold": 0.95,
+    "removed_features": [],
+    "final_feature_count": 30
+}
