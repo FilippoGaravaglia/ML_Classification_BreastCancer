@@ -1,0 +1,9 @@
+{
+    "library": "scikit-learn",
+    "model": "GaussianNB",
+    "configuration": "full",
+    "feature_count": 30,
+    "var_smoothing": 1e-09,
+    "training_observations": 398,
+    "test_observations": 171
+}
